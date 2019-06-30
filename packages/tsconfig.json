@@ -1,0 +1,4 @@
+{
+  "files": [],
+  "references": [{ "path": "./text-to-emoji" }, { "path": "./playground" }]
+}

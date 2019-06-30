@@ -1,0 +1,8 @@
+node_modules
+
+# TypeScript
+packages/*/lib
+*.tsbuildinfo
+
+# macOS
+.DS_Store
