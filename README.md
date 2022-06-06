@@ -1,3 +1,5 @@
+> **⚠️ This project is archived. Take a look at [Turborepo](https://turborepo.org).**
+
 # TypeScript full-stack monorepo example
 
 [Lerna](https://lerna.js.org/) + [TypeScript project references](https://www.typescriptlang.org/docs/handbook/project-references.html).
